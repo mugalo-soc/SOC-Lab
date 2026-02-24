@@ -1,0 +1,4 @@
+SOC Lab module 1 windows logging deep dive
+event id 4624
+loging types and suspicious behavior
+Escalation thresholds
