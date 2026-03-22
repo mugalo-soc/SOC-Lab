@@ -1,0 +1,9 @@
+Attack simulation
+
+port scanning
+tool:Nmap
+command:nmap sT 192.168.56.104
+
+Brute force attack
+tool:Hydra
+Target:SSH
