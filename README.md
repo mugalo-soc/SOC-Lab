@@ -35,4 +35,9 @@ lab setup
  .Network traffic monitering
  .SOC detection techniques
  
+conclusion
 
+This project demonstrates practical SOC analyst skills including attack simulation, log analysis, and threat detection. I
+it highlights the ability to identify bruteforce attacks and port scanning activities, analyze network traffic and respond with appropriate mitigation strategies .
+
+This lab reflects real world Security Operation centre tasks and showcases readiness for an entry level SOC Analyst role.
